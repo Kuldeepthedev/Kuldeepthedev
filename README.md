@@ -61,9 +61,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - Open-source contributions and best practices
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com] (if you'd like to share it)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@Kuldeepthedev](https://twitter.com/Kuldeepthedev)
+- Email: [kuldeeplamba.dev@gmail.com] (if you'd like to share it)
+- LinkedIn: [Kuldeep Kumar](https://www.linkedin.com/in/kuldeep-kumar-9336852b1/)
 
 ---
 

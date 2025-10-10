@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kuldeep Kumar!
+# 👋 Hi, I'm Kuldeep Kumar
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions, exploring cutting-edge technologies, and contributing to the open-source community.
 
